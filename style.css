@@ -1,0 +1,78 @@
+<style>
+       
+    /* Head banner team */
+    .banner {
+        text-align: center;
+        width: ;
+    }
+    
+    img {
+  border-radius: 50%;
+   }
+         
+    h1 {
+        color: #000;
+    }
+       
+    /* styling sidebar */
+    .sidehoverbar a {
+        background-color: #D3D3D3;
+        position: absolute;
+        font-size: 22px;
+        text-decoration: none;
+        Color: #F0FFFF;
+        padding: 10px;
+        border-radius: 0px 25px 25px 0px;
+        left: -190px;
+        transition: 0.5s;
+        opacity: 0.5;
+    }
+       
+    /* Hover effect on sidebar */
+    .sidehoverbar a:hover {
+        left: 0px;
+        opacity: 1;
+        background-color: #483D8B;
+    }
+       
+    /* float icons*/
+    .sidehoverbar i {
+        float: right;
+    }
+       
+    /* defining position of each nav bar */
+    .article {
+        top: 50px;
+        width: 210px;
+        height: 30px;
+    }
+         
+    .Interview {
+        top: 110px;
+        width: 210px;
+        height: 30px;
+    }
+         
+    .Scripter {
+        top: 170px;
+        width: 210px;
+        height: 30px;
+    }
+         
+    .Suggested {
+        top: 230px;
+        width: 210px;
+        height: 30px;
+    }
+         
+    .Practice {
+        top: 290px;
+        width: 210px;
+        height: 30px;
+    }
+       
+    /* content margin */
+    .hoverable-topic {
+      text-align: center;
+    }
+</style>
